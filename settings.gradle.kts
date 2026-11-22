@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Learning"
 include(":app")
- 
+include(":ipcclient")
